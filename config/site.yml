@@ -22,7 +22,7 @@ locales: [en]
 # This converts the server's time to the site's time zone in templates
 # The TimeZone class from Rail's ActiveSupport is used to interpret the string
 # Sample timezone strings: Tokyo, Beijing, Moscow, Cairo, Paris, Pacific Time (US & Canada)
- timezone: Berlin
+timezone: Berlin
 
 # For SEO purposes, sites may wish to add a relevant string to the <title> tag
 # And include <meta type="keywords"> and <meta type="description">
@@ -31,4 +31,3 @@ locales: [en]
 seo_title: Travel Tips for the Adventurous
 meta_keywords: "travel backpacking budget adventure"
 meta_description: "some meta description"
-meta_description: "Learn about cool places to see abroad, interesting things to eat, and little travel tips you won't believe you lived without."
